@@ -330,6 +330,11 @@ footer {
     width: 40%;
 }
 
+.masdemi {   border : red;
+}
+.masdemi.azul{ border: blue;
+
+}
 /* ################################ MEDIA QUERY ###################################*/
 
 @media screen and (max-width:700px){
